@@ -1,5 +1,5 @@
-# AVELLANA'S HELADERIA
-## _Proyecto e-commerce de una tienda de helados._
+# Panadería "El Trébol"
+## _Proyecto e-commerce de una panaderia._
 > Proyecto final E-commerce, Curso React-Js de [CoderHouse](https://www.coderhouse.com/). Año 2022 
 
 ## Contenido
