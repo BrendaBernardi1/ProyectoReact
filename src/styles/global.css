@@ -1,0 +1,32 @@
+@tailwind base;
+@layer base {
+  body {
+    @apply tracking-wider text-gray-600;
+    margin: 0;
+    font-family: "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+      "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+      monospace;
+  }
+  label {
+    @apply pt-2;
+  }
+  input {
+    @apply py-2 rounded-lg pl-2;
+  }
+}
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  font-size: 20px;
+  text-align: center;
+}
+
+.producto:hover{
+  border: 6px solid rgb(192, 34, 158);
+}
